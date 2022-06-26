@@ -1,0 +1,9 @@
+{
+	"name": "p3-adf",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fba037dc-0a75-4b70-bf79-2582ce66e678",
+		"tenantId": "89a5dc19-554e-4b77-99aa-22b73c7a0ce1"
+	}
+}
